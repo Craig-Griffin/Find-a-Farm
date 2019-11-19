@@ -40,7 +40,8 @@
         <div class="col-lg-6 order-lg-1 my-auto showcase-text">
           <h2>Source Local Food</h2>
           <p class="lead mb-0">By using our app you will be supporting local farmers and businesses in your area.
-		                       The app will use google Earth Api to ...</p>
+		                       The app will use google Earth Api to source places for you to shop locally and not 
+		                       only help the enviroment, but also support local businesses</p>
 		                    
         </div>
       </div>
