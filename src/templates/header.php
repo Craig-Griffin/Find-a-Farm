@@ -9,9 +9,9 @@
   <title>CS312 Group D</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Custom style -->
-  <link href="../css/CS312.min.css" rel="stylesheet">
+  <link href="css/CS312.min.css" rel="stylesheet">
 
 
 </head>
