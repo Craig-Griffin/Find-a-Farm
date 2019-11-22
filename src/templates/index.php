@@ -56,7 +56,9 @@
         <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('../img/bg-showcase-3.jpg');"></div>
         <div class="col-lg-6 order-lg-1 my-auto showcase-text">
           <h2>Reduce Carbon footprint</h2>
-          <p class="lead mb-0">..........................................................</p>
+          <p class="lead mb-0">By using our site, you are activley reducing your carbon footprint. By locallly sourcing where
+                               to buy your food, you are cutting down emissions produced by shopping typically in Tescos, Morrisons, 
+                               and Asda. You are also helping a local business and in turn giving back to your community.</p>
         </div>
       </div>
     </div>
