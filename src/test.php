@@ -4,6 +4,6 @@ require "utils/renderer.php";
 $data = [];
 $data["name"] = "Rory Brown";
 
-echo renderFromTemplateFile("test.php", $data);
+echo renderFromTemplateFile("test.html", $data);
 
 ?>
