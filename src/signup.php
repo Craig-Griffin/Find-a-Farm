@@ -52,8 +52,8 @@ function handlePost(){
 
 requireNotLoggedIn();
 
-$_SERVER["REQUEST_METHOD"] = "POST";
-$_POST["firstName"] = "rory";
+//$_SERVER["REQUEST_METHOD"] = "POST";
+//$_POST["firstName"] = "rory";
 if($_SERVER["REQUEST_METHOD"] == "POST"){
     $data = handlePost();
 }
